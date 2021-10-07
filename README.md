@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I'm another freelancer who love web development and live for it.
+
+🗄️ My current focusing tech stacks: NodeJS, VueJS, NuxtJS, Strapi, TailwindCSS & Laravel.
+
+💬 Reach me at hoatrinh.dev
