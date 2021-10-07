@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱&nbsp;&nbsp;I'm another freelancer who love web development and live for it.
+🌱&nbsp;&nbsp;I'm just a freelancer who loves web development and live for it.
 
 🗄️&nbsp;&nbsp;My current focusing tech stacks: NodeJS, VueJS, NuxtJS, Strapi, TailwindCSS & Laravel.
 
