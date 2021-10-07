@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱    I'm another freelancer who love web development and live for it.
+🌱&nbsp;&nbsp;I'm another freelancer who love web development and live for it.
 
-🗄️    My current focusing tech stacks: NodeJS, VueJS, NuxtJS, Strapi, TailwindCSS & Laravel.
+🗄️&nbsp;&nbsp;My current focusing tech stacks: NodeJS, VueJS, NuxtJS, Strapi, TailwindCSS & Laravel.
 
-💬    Reach me at hoatrinh.dev
+💬&nbsp;&nbsp;Reach me at hoatrinh.dev
