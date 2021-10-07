@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 🗄️&nbsp;&nbsp;My current focusing tech stacks: NodeJS, VueJS, NuxtJS, Strapi, TailwindCSS & Laravel.
 
-💬&nbsp;&nbsp;Reach me at hoatrinh.dev
+💬&nbsp;&nbsp;Reach me at [hoatrinh.dev](https://hoatrinh.dev)
