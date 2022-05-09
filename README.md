@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🌱&nbsp;&nbsp;I'm just a freelancer who loves web development and live for it.
 
-🗄️&nbsp;&nbsp;My current focusing tech stacks: NodeJS, VueJS, NuxtJS, Strapi, TailwindCSS & Laravel.
+🗄️&nbsp;&nbsp;My current focusing tech stacks: NodeJS, VueJS, NuxtJS, ReactJS, NextJS, Strapi, TailwindCSS & Laravel.
 
 💬&nbsp;&nbsp;Reach me at [hoatrinh.dev](https://hoatrinh.dev)
