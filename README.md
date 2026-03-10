@@ -1,22 +1,13 @@
-### Hi there 👋
+### Hi, I'm Kyle 👋
 
-<!--
-**mrth2/mrth2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Writing code, shipping small things, trying to keep going.
 
-Here are some ideas to get you started:
+#### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔄 [KeepGoing](https://keepgoing.dev) - Project memory for developers. Remembers where you left off so you don't have to.
 
-🌱&nbsp;&nbsp;I'm just a freelancer who loves web development and live for it.
+🕹️ [win95.fun](https://win95.fun) - A retro gaming hub that mimics Windows 95. Abandoned, but I still love it.
 
-🗄️&nbsp;&nbsp;My current focusing tech stacks: NodeJS, VueJS, NuxtJS, ReactJS, NextJS, Strapi, TailwindCSS & Laravel.
+#### Connect
 
-💬&nbsp;&nbsp;Reach me at [hoatrinh.dev](https://hoatrinh.dev)
+🌐 [hoatrinh.dev](https://hoatrinh.dev) · 💼 [LinkedIn](https://linkedin.com/in/hoa-trinh-dev)
